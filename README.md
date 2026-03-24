@@ -1,3 +1,6 @@
+
+
+
 # Git Exercises — Le Git Gourmand
 
 Bienvenue dans ce dépôt d'exercices Git !
@@ -129,4 +132,14 @@ git cherry-pick <hash-du-fix-xss>
 | `ex4-squash/feature` | Squash | Branch à squasher |
 | `ex5-cherrypick/main` | Cherry-pick | Branch cible |
 | `ex5-cherrypick/feature` | Cherry-pick | Source des commits |
+
+
+
+## Git Exo 2: contribuer à l'open-source
+
+1. Forkez mon repository 'https://github.com/xavierdubruille/git-exercises'.
+2. Clonez votre fork .
+3. Modifiez le fichier 'livre_dor.md' sur votre 'main'.
+   👉 Ajoutez: Nom + Votre pire excuse de dev (ex: 'Ça marche en local !')
+4. Commitez, Pushez et ouvrez une Pull Request !
 
